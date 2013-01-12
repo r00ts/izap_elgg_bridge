@@ -1,0 +1,577 @@
+[27-Mar-2012 08:07:17] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[27-Mar-2012 08:07:17] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[27-Mar-2012 08:07:17] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[27-Mar-2012 08:07:17] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[27-Mar-2012 08:07:17] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[27-Mar-2012 08:07:17] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[27-Mar-2012 12:13:20] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[27-Mar-2012 12:13:20] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[27-Mar-2012 12:13:20] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[27-Mar-2012 12:13:20] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[27-Mar-2012 12:13:20] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[27-Mar-2012 12:13:20] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[28-Mar-2012 06:16:21] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[28-Mar-2012 06:16:21] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[28-Mar-2012 06:16:21] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[28-Mar-2012 06:16:21] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[28-Mar-2012 06:16:21] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[28-Mar-2012 06:16:21] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[28-Mar-2012 12:54:43] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[28-Mar-2012 12:54:43] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[28-Mar-2012 12:54:43] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[28-Mar-2012 12:54:43] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[28-Mar-2012 12:54:43] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[28-Mar-2012 12:54:43] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[28-Mar-2012 16:33:31] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[28-Mar-2012 16:33:31] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[28-Mar-2012 16:33:31] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[28-Mar-2012 16:33:31] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[28-Mar-2012 16:33:31] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[28-Mar-2012 16:33:31] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[29-Mar-2012 06:44:24] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[29-Mar-2012 06:44:24] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[29-Mar-2012 06:44:24] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[29-Mar-2012 06:44:24] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[29-Mar-2012 06:44:24] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[29-Mar-2012 06:44:24] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[29-Mar-2012 06:44:24] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[29-Mar-2012 06:44:24] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[29-Mar-2012 06:44:24] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[29-Mar-2012 06:44:24] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[29-Mar-2012 06:44:24] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[29-Mar-2012 06:44:24] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[29-Mar-2012 06:44:24] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[29-Mar-2012 06:44:24] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[29-Mar-2012 06:44:24] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[29-Mar-2012 06:44:24] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[29-Mar-2012 06:44:24] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[29-Mar-2012 06:44:24] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[29-Mar-2012 06:44:24] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[29-Mar-2012 06:44:24] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[29-Mar-2012 06:44:24] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[29-Mar-2012 06:44:24] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[29-Mar-2012 06:44:24] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[29-Mar-2012 06:44:24] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[29-Mar-2012 06:44:24] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[29-Mar-2012 06:44:24] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[29-Mar-2012 06:44:24] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[29-Mar-2012 06:44:24] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[29-Mar-2012 06:44:24] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[29-Mar-2012 06:44:24] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[29-Mar-2012 06:44:24] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[29-Mar-2012 06:44:24] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[29-Mar-2012 06:44:24] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[29-Mar-2012 06:44:24] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[29-Mar-2012 06:44:24] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[29-Mar-2012 06:44:24] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[29-Mar-2012 06:44:25] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[29-Mar-2012 06:44:25] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[29-Mar-2012 06:44:25] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[29-Mar-2012 06:44:25] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[29-Mar-2012 06:44:25] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[29-Mar-2012 06:44:25] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[29-Mar-2012 06:44:25] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[29-Mar-2012 06:44:25] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[29-Mar-2012 06:44:25] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[29-Mar-2012 06:44:25] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[29-Mar-2012 06:44:25] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[29-Mar-2012 06:44:25] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[29-Mar-2012 06:44:25] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[29-Mar-2012 06:44:25] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[29-Mar-2012 06:44:25] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[29-Mar-2012 06:44:25] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[29-Mar-2012 06:44:25] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[29-Mar-2012 06:44:25] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[29-Mar-2012 06:44:25] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[29-Mar-2012 06:44:25] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[29-Mar-2012 06:44:25] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[29-Mar-2012 06:44:25] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[29-Mar-2012 06:44:25] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[29-Mar-2012 06:44:25] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[29-Mar-2012 06:44:25] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[29-Mar-2012 06:44:25] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[29-Mar-2012 06:44:25] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[29-Mar-2012 06:44:25] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[29-Mar-2012 06:44:25] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[29-Mar-2012 06:44:25] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[29-Mar-2012 18:34:12] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[29-Mar-2012 18:34:12] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[29-Mar-2012 18:34:12] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[29-Mar-2012 18:34:12] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[29-Mar-2012 18:34:12] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[29-Mar-2012 18:34:12] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[04-Apr-2012 14:33:52] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[04-Apr-2012 14:33:52] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[04-Apr-2012 14:33:52] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[04-Apr-2012 14:33:52] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[04-Apr-2012 14:33:52] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[04-Apr-2012 14:33:52] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[05-Apr-2012 00:01:37] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[05-Apr-2012 00:01:37] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[05-Apr-2012 00:01:37] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[05-Apr-2012 00:01:37] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[05-Apr-2012 00:01:37] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[05-Apr-2012 00:01:37] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[05-Apr-2012 08:02:01] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[05-Apr-2012 08:02:01] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[05-Apr-2012 08:02:01] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[05-Apr-2012 08:02:01] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[05-Apr-2012 08:02:01] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[05-Apr-2012 08:02:01] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[06-Apr-2012 03:12:48] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[06-Apr-2012 03:12:48] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[06-Apr-2012 03:12:48] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[06-Apr-2012 03:12:48] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[06-Apr-2012 03:12:48] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[06-Apr-2012 03:12:48] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[06-Apr-2012 03:41:48] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[06-Apr-2012 03:41:48] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[06-Apr-2012 03:41:48] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[06-Apr-2012 03:41:48] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[06-Apr-2012 03:41:48] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[06-Apr-2012 03:41:48] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[06-Apr-2012 04:11:40] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[06-Apr-2012 04:11:40] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[06-Apr-2012 04:11:41] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[06-Apr-2012 04:11:41] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[06-Apr-2012 04:11:41] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[06-Apr-2012 04:11:41] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[08-Apr-2012 08:15:02] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[08-Apr-2012 08:15:02] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[08-Apr-2012 08:15:02] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-ecommerce/start.php:21
+[08-Apr-2012 08:15:02] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/captcha/start.php:139
+[08-Apr-2012 08:15:02] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[08-Apr-2012 08:15:02] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[08-Apr-2012 08:15:02] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[08-Apr-2012 08:15:02] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[08-Apr-2012 08:15:02] PHP WARNING: 2012-04-08 08:15:02 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[08-Apr-2012 08:15:02] PHP WARNING: 2012-04-08 08:15:02 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 196)
+[08-Apr-2012 08:15:02] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:13
+[08-Apr-2012 08:15:02] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:25
+[08-Apr-2012 08:15:02] Deprecated in 1.8: trigger_plugin_hook() was deprecated by elgg_trigger_plugin_hook() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:29
+[08-Apr-2012 08:15:02] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[08-Apr-2012 08:15:02] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[08-Apr-2012 08:15:02] Deprecated in 1.8: get_context() was deprecated by elgg_get_context(). Called from [#5] /home/wizar621/public_html/vk/mod/izap-payment-gateways/start.php:47
+[08-Apr-2012 08:15:02] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:55
+[08-Apr-2012 08:15:02] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:56
+[08-Apr-2012 08:15:02] Deprecated in 1.8: register_entity_type() was deprecated by elgg_register_entity_type() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:135
+[10-Apr-2012 07:46:10] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[10-Apr-2012 07:46:10] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[10-Apr-2012 07:46:10] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-ecommerce/start.php:21
+[10-Apr-2012 07:46:10] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/captcha/start.php:139
+[10-Apr-2012 07:46:10] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-contest/start.php:113
+[10-Apr-2012 07:46:10] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[10-Apr-2012 07:46:10] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[10-Apr-2012 07:46:10] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[10-Apr-2012 07:46:10] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[10-Apr-2012 07:46:10] PHP WARNING: 2012-04-10 07:46:10 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[10-Apr-2012 07:46:10] PHP WARNING: 2012-04-10 07:46:10 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 196)
+[10-Apr-2012 07:46:10] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:13
+[10-Apr-2012 07:46:10] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:25
+[10-Apr-2012 07:46:10] Deprecated in 1.8: trigger_plugin_hook() was deprecated by elgg_trigger_plugin_hook() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:29
+[10-Apr-2012 07:46:10] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[10-Apr-2012 07:46:10] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[10-Apr-2012 07:46:10] Deprecated in 1.8: get_context() was deprecated by elgg_get_context(). Called from [#5] /home/wizar621/public_html/vk/mod/izap-payment-gateways/start.php:47
+[10-Apr-2012 07:46:10] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:55
+[10-Apr-2012 07:46:10] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:56
+[10-Apr-2012 07:46:10] Deprecated in 1.8: register_entity_type() was deprecated by elgg_register_entity_type() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:135
+[10-Apr-2012 07:46:10] PHP WARNING: 2012-04-10 07:46:10 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[13-Apr-2012 06:37:25] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[13-Apr-2012 06:37:25] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[13-Apr-2012 06:37:25] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-ecommerce/start.php:21
+[13-Apr-2012 06:37:25] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/captcha/start.php:139
+[13-Apr-2012 06:37:25] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-contest/start.php:113
+[13-Apr-2012 06:37:25] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[13-Apr-2012 06:37:25] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[13-Apr-2012 06:37:25] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[13-Apr-2012 06:37:25] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[13-Apr-2012 06:37:25] PHP WARNING: 2012-04-13 06:37:25 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[13-Apr-2012 06:37:25] PHP WARNING: 2012-04-13 06:37:25 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 196)
+[13-Apr-2012 06:37:25] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:13
+[13-Apr-2012 06:37:25] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:25
+[13-Apr-2012 06:37:25] Deprecated in 1.8: trigger_plugin_hook() was deprecated by elgg_trigger_plugin_hook() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:29
+[13-Apr-2012 06:37:25] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[13-Apr-2012 06:37:25] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[13-Apr-2012 06:37:25] Deprecated in 1.8: get_context() was deprecated by elgg_get_context(). Called from [#5] /home/wizar621/public_html/vk/mod/izap-payment-gateways/start.php:47
+[13-Apr-2012 06:37:25] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:55
+[13-Apr-2012 06:37:25] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:56
+[13-Apr-2012 06:37:25] Deprecated in 1.8: register_entity_type() was deprecated by elgg_register_entity_type() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:135
+[13-Apr-2012 06:37:25] PHP WARNING: 2012-04-13 06:37:25 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[19-Apr-2012 04:16:54] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[19-Apr-2012 04:16:54] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[19-Apr-2012 04:16:54] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-ecommerce/start.php:21
+[19-Apr-2012 04:16:54] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/captcha/start.php:139
+[19-Apr-2012 04:16:54] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-contest/start.php:113
+[19-Apr-2012 04:16:54] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[19-Apr-2012 04:16:54] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[19-Apr-2012 04:16:54] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[19-Apr-2012 04:16:54] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[19-Apr-2012 04:16:54] PHP WARNING: 2012-04-19 04:16:54 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[19-Apr-2012 04:16:54] PHP WARNING: 2012-04-19 04:16:54 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 196)
+[19-Apr-2012 04:16:54] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:13
+[19-Apr-2012 04:16:54] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:25
+[19-Apr-2012 04:16:54] Deprecated in 1.8: trigger_plugin_hook() was deprecated by elgg_trigger_plugin_hook() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:29
+[19-Apr-2012 04:16:54] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[19-Apr-2012 04:16:54] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[19-Apr-2012 04:16:54] Deprecated in 1.8: get_context() was deprecated by elgg_get_context(). Called from [#5] /home/wizar621/public_html/vk/mod/izap-payment-gateways/start.php:47
+[19-Apr-2012 04:16:54] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:55
+[19-Apr-2012 04:16:54] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:56
+[19-Apr-2012 04:16:54] Deprecated in 1.8: register_entity_type() was deprecated by elgg_register_entity_type() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:135
+[19-Apr-2012 04:16:54] PHP WARNING: 2012-04-19 04:16:54 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[05-May-2012 01:12:38] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[05-May-2012 01:12:38] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[05-May-2012 01:12:38] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-ecommerce/start.php:21
+[05-May-2012 01:12:38] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/captcha/start.php:139
+[05-May-2012 01:12:38] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-contest/start.php:113
+[05-May-2012 01:12:38] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[05-May-2012 01:12:38] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[05-May-2012 01:12:38] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[05-May-2012 01:12:38] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[05-May-2012 01:12:38] PHP WARNING: 2012-05-05 01:12:38 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[05-May-2012 01:12:38] PHP WARNING: 2012-05-05 01:12:38 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 196)
+[05-May-2012 01:12:38] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:13
+[05-May-2012 01:12:38] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:25
+[05-May-2012 01:12:38] Deprecated in 1.8: trigger_plugin_hook() was deprecated by elgg_trigger_plugin_hook() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:29
+[05-May-2012 01:12:38] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[05-May-2012 01:12:38] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[05-May-2012 01:12:38] Deprecated in 1.8: get_context() was deprecated by elgg_get_context(). Called from [#5] /home/wizar621/public_html/vk/mod/izap-payment-gateways/start.php:47
+[05-May-2012 01:12:38] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:55
+[05-May-2012 01:12:38] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:56
+[05-May-2012 01:12:38] Deprecated in 1.8: register_entity_type() was deprecated by elgg_register_entity_type() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:135
+[05-May-2012 01:12:38] PHP WARNING: 2012-05-05 01:12:38 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[07-May-2012 18:50:12] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[07-May-2012 18:50:12] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[07-May-2012 18:50:12] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-ecommerce/start.php:21
+[07-May-2012 18:50:12] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/captcha/start.php:139
+[07-May-2012 18:50:12] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-contest/start.php:113
+[07-May-2012 18:50:12] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[07-May-2012 18:50:12] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[07-May-2012 18:50:12] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[07-May-2012 18:50:12] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[07-May-2012 18:50:12] PHP WARNING: 2012-05-07 18:50:12 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[07-May-2012 18:50:12] PHP WARNING: 2012-05-07 18:50:12 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 196)
+[07-May-2012 18:50:12] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:13
+[07-May-2012 18:50:12] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:25
+[07-May-2012 18:50:12] Deprecated in 1.8: trigger_plugin_hook() was deprecated by elgg_trigger_plugin_hook() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:29
+[07-May-2012 18:50:12] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[07-May-2012 18:50:12] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[07-May-2012 18:50:12] Deprecated in 1.8: get_context() was deprecated by elgg_get_context(). Called from [#5] /home/wizar621/public_html/vk/mod/izap-payment-gateways/start.php:47
+[07-May-2012 18:50:12] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:55
+[07-May-2012 18:50:12] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:56
+[07-May-2012 18:50:12] Deprecated in 1.8: register_entity_type() was deprecated by elgg_register_entity_type() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:135
+[07-May-2012 18:50:12] PHP WARNING: 2012-05-07 18:50:12 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[07-May-2012 18:50:19] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[07-May-2012 18:50:19] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[07-May-2012 18:50:19] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-ecommerce/start.php:21
+[07-May-2012 18:50:19] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/captcha/start.php:139
+[07-May-2012 18:50:19] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-contest/start.php:113
+[07-May-2012 18:50:19] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[07-May-2012 18:50:19] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[07-May-2012 18:50:19] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[07-May-2012 18:50:19] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[07-May-2012 18:50:19] PHP WARNING: 2012-05-07 18:50:19 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[07-May-2012 18:50:19] PHP WARNING: 2012-05-07 18:50:19 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 196)
+[07-May-2012 18:50:19] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:13
+[07-May-2012 18:50:19] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:25
+[07-May-2012 18:50:19] Deprecated in 1.8: trigger_plugin_hook() was deprecated by elgg_trigger_plugin_hook() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:29
+[07-May-2012 18:50:19] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[07-May-2012 18:50:19] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[07-May-2012 18:50:19] Deprecated in 1.8: get_context() was deprecated by elgg_get_context(). Called from [#5] /home/wizar621/public_html/vk/mod/izap-payment-gateways/start.php:47
+[07-May-2012 18:50:19] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:55
+[07-May-2012 18:50:19] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:56
+[07-May-2012 18:50:19] Deprecated in 1.8: register_entity_type() was deprecated by elgg_register_entity_type() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:135
+[07-May-2012 18:50:19] PHP WARNING: 2012-05-07 18:50:19 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[14-May-2012 15:24:27] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[14-May-2012 15:24:28] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[14-May-2012 15:24:28] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-ecommerce/start.php:21
+[14-May-2012 15:24:28] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/captcha/start.php:139
+[14-May-2012 15:24:28] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-contest/start.php:113
+[14-May-2012 15:24:28] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[14-May-2012 15:24:28] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[14-May-2012 15:24:28] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[14-May-2012 15:24:28] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[14-May-2012 15:24:28] PHP WARNING: 2012-05-14 15:24:28 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[14-May-2012 15:24:28] PHP WARNING: 2012-05-14 15:24:28 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 196)
+[14-May-2012 15:24:28] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:13
+[14-May-2012 15:24:28] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:25
+[14-May-2012 15:24:28] Deprecated in 1.8: trigger_plugin_hook() was deprecated by elgg_trigger_plugin_hook() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:29
+[14-May-2012 15:24:28] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[14-May-2012 15:24:28] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[14-May-2012 15:24:28] Deprecated in 1.8: get_context() was deprecated by elgg_get_context(). Called from [#5] /home/wizar621/public_html/vk/mod/izap-payment-gateways/start.php:47
+[14-May-2012 15:24:28] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:55
+[14-May-2012 15:24:28] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:56
+[14-May-2012 15:24:28] Deprecated in 1.8: register_entity_type() was deprecated by elgg_register_entity_type() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:135
+[14-May-2012 15:24:28] PHP WARNING: 2012-05-14 15:24:28 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[19-May-2012 10:53:46] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[19-May-2012 10:53:46] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[19-May-2012 10:53:46] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-ecommerce/start.php:21
+[19-May-2012 10:53:46] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/captcha/start.php:139
+[19-May-2012 10:53:46] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-contest/start.php:113
+[19-May-2012 10:53:46] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[19-May-2012 10:53:46] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[19-May-2012 10:53:46] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[19-May-2012 10:53:46] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[19-May-2012 10:53:46] PHP WARNING: 2012-05-19 10:53:46 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[19-May-2012 10:53:46] PHP WARNING: 2012-05-19 10:53:46 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 196)
+[19-May-2012 10:53:46] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:13
+[19-May-2012 10:53:46] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:25
+[19-May-2012 10:53:46] Deprecated in 1.8: trigger_plugin_hook() was deprecated by elgg_trigger_plugin_hook() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:29
+[19-May-2012 10:53:46] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[19-May-2012 10:53:46] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[19-May-2012 10:53:46] Deprecated in 1.8: get_context() was deprecated by elgg_get_context(). Called from [#5] /home/wizar621/public_html/vk/mod/izap-payment-gateways/start.php:47
+[19-May-2012 10:53:46] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:55
+[19-May-2012 10:53:46] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:56
+[19-May-2012 10:53:46] Deprecated in 1.8: register_entity_type() was deprecated by elgg_register_entity_type() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:135
+[19-May-2012 10:53:46] PHP WARNING: 2012-05-19 10:53:46 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[19-May-2012 10:56:31] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[19-May-2012 10:56:31] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[19-May-2012 10:56:31] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-ecommerce/start.php:21
+[19-May-2012 10:56:31] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/captcha/start.php:139
+[19-May-2012 10:56:31] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-contest/start.php:113
+[19-May-2012 10:56:31] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[19-May-2012 10:56:31] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[19-May-2012 10:56:31] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[19-May-2012 10:56:31] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[19-May-2012 10:56:31] PHP WARNING: 2012-05-19 10:56:31 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[19-May-2012 10:56:31] PHP WARNING: 2012-05-19 10:56:31 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 196)
+[19-May-2012 10:56:31] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:13
+[19-May-2012 10:56:31] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:25
+[19-May-2012 10:56:31] Deprecated in 1.8: trigger_plugin_hook() was deprecated by elgg_trigger_plugin_hook() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:29
+[19-May-2012 10:56:31] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[19-May-2012 10:56:31] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[19-May-2012 10:56:31] Deprecated in 1.8: get_context() was deprecated by elgg_get_context(). Called from [#5] /home/wizar621/public_html/vk/mod/izap-payment-gateways/start.php:47
+[19-May-2012 10:56:31] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:55
+[19-May-2012 10:56:31] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:56
+[19-May-2012 10:56:31] Deprecated in 1.8: register_entity_type() was deprecated by elgg_register_entity_type() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:135
+[19-May-2012 10:56:31] PHP WARNING: 2012-05-19 10:56:31 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[19-May-2012 12:51:53] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[19-May-2012 12:51:53] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[19-May-2012 12:51:53] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-ecommerce/start.php:21
+[19-May-2012 12:51:53] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/captcha/start.php:139
+[19-May-2012 12:51:53] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-contest/start.php:113
+[19-May-2012 12:51:53] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[19-May-2012 12:51:53] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[19-May-2012 12:51:53] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[19-May-2012 12:51:53] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[19-May-2012 12:51:53] PHP WARNING: 2012-05-19 12:51:53 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[19-May-2012 12:51:53] PHP WARNING: 2012-05-19 12:51:53 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 196)
+[19-May-2012 12:51:53] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:13
+[19-May-2012 12:51:53] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:25
+[19-May-2012 12:51:53] Deprecated in 1.8: trigger_plugin_hook() was deprecated by elgg_trigger_plugin_hook() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:29
+[19-May-2012 12:51:53] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[19-May-2012 12:51:53] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[19-May-2012 12:51:53] Deprecated in 1.8: get_context() was deprecated by elgg_get_context(). Called from [#5] /home/wizar621/public_html/vk/mod/izap-payment-gateways/start.php:47
+[19-May-2012 12:51:53] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:55
+[19-May-2012 12:51:53] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:56
+[19-May-2012 12:51:53] Deprecated in 1.8: register_entity_type() was deprecated by elgg_register_entity_type() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:135
+[19-May-2012 12:51:53] PHP WARNING: 2012-05-19 12:51:53 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[19-May-2012 13:24:11] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[19-May-2012 13:24:11] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[19-May-2012 13:24:11] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-ecommerce/start.php:21
+[19-May-2012 13:24:11] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/captcha/start.php:139
+[19-May-2012 13:24:11] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-contest/start.php:113
+[19-May-2012 13:24:11] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[19-May-2012 13:24:11] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[19-May-2012 13:24:11] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[19-May-2012 13:24:11] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[19-May-2012 13:24:11] PHP WARNING: 2012-05-19 13:24:11 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[19-May-2012 13:24:11] PHP WARNING: 2012-05-19 13:24:11 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 196)
+[19-May-2012 13:24:11] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:13
+[19-May-2012 13:24:11] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:25
+[19-May-2012 13:24:11] Deprecated in 1.8: trigger_plugin_hook() was deprecated by elgg_trigger_plugin_hook() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:29
+[19-May-2012 13:24:11] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[19-May-2012 13:24:11] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[19-May-2012 13:24:11] Deprecated in 1.8: get_context() was deprecated by elgg_get_context(). Called from [#5] /home/wizar621/public_html/vk/mod/izap-payment-gateways/start.php:47
+[19-May-2012 13:24:11] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:55
+[19-May-2012 13:24:11] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:56
+[19-May-2012 13:24:11] Deprecated in 1.8: register_entity_type() was deprecated by elgg_register_entity_type() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:135
+[19-May-2012 13:24:11] PHP WARNING: 2012-05-19 13:24:11 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[22-May-2012 09:46:29] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[22-May-2012 09:46:29] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[22-May-2012 09:46:29] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-ecommerce/start.php:21
+[22-May-2012 09:46:29] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/captcha/start.php:139
+[22-May-2012 09:46:29] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-contest/start.php:113
+[22-May-2012 09:46:29] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[22-May-2012 09:46:29] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[22-May-2012 09:46:29] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[22-May-2012 09:46:29] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[22-May-2012 09:46:29] PHP WARNING: 2012-05-22 09:46:29 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[22-May-2012 09:46:29] PHP WARNING: 2012-05-22 09:46:29 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 196)
+[22-May-2012 09:46:29] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:13
+[22-May-2012 09:46:29] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:25
+[22-May-2012 09:46:29] Deprecated in 1.8: trigger_plugin_hook() was deprecated by elgg_trigger_plugin_hook() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:29
+[22-May-2012 09:46:29] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[22-May-2012 09:46:29] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[22-May-2012 09:46:29] Deprecated in 1.8: get_context() was deprecated by elgg_get_context(). Called from [#5] /home/wizar621/public_html/vk/mod/izap-payment-gateways/start.php:47
+[22-May-2012 09:46:29] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:55
+[22-May-2012 09:46:29] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:56
+[22-May-2012 09:46:29] Deprecated in 1.8: register_entity_type() was deprecated by elgg_register_entity_type() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:135
+[22-May-2012 09:46:29] PHP WARNING: 2012-05-22 09:46:29 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[23-May-2012 11:02:29] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[23-May-2012 11:02:29] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[23-May-2012 11:02:29] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-ecommerce/start.php:21
+[23-May-2012 11:02:29] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/captcha/start.php:139
+[23-May-2012 11:02:29] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-contest/start.php:113
+[23-May-2012 11:02:30] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[23-May-2012 11:02:30] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[23-May-2012 11:02:30] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[23-May-2012 11:02:30] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[23-May-2012 11:02:30] PHP WARNING: 2012-05-23 11:02:30 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[23-May-2012 11:02:30] PHP WARNING: 2012-05-23 11:02:30 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 196)
+[23-May-2012 11:02:30] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:13
+[23-May-2012 11:02:30] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:25
+[23-May-2012 11:02:30] Deprecated in 1.8: trigger_plugin_hook() was deprecated by elgg_trigger_plugin_hook() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:29
+[23-May-2012 11:02:30] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[23-May-2012 11:02:30] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[23-May-2012 11:02:30] Deprecated in 1.8: get_context() was deprecated by elgg_get_context(). Called from [#5] /home/wizar621/public_html/vk/mod/izap-payment-gateways/start.php:47
+[23-May-2012 11:02:30] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:55
+[23-May-2012 11:02:30] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:56
+[23-May-2012 11:02:30] Deprecated in 1.8: register_entity_type() was deprecated by elgg_register_entity_type() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:135
+[23-May-2012 11:02:30] PHP WARNING: 2012-05-23 11:02:30 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[24-May-2012 11:09:19] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[24-May-2012 11:09:19] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[24-May-2012 11:09:19] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-ecommerce/start.php:21
+[24-May-2012 11:09:19] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/captcha/start.php:139
+[24-May-2012 11:09:19] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-contest/start.php:113
+[24-May-2012 11:09:19] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[24-May-2012 11:09:19] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[24-May-2012 11:09:19] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[24-May-2012 11:09:19] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[24-May-2012 11:09:19] PHP WARNING: 2012-05-24 11:09:19 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[24-May-2012 11:09:19] PHP WARNING: 2012-05-24 11:09:19 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 196)
+[24-May-2012 11:09:19] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:13
+[24-May-2012 11:09:19] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:25
+[24-May-2012 11:09:19] Deprecated in 1.8: trigger_plugin_hook() was deprecated by elgg_trigger_plugin_hook() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:29
+[24-May-2012 11:09:19] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[24-May-2012 11:09:19] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[24-May-2012 11:09:19] Deprecated in 1.8: get_context() was deprecated by elgg_get_context(). Called from [#5] /home/wizar621/public_html/vk/mod/izap-payment-gateways/start.php:47
+[24-May-2012 11:09:19] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:55
+[24-May-2012 11:09:19] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:56
+[24-May-2012 11:09:19] Deprecated in 1.8: register_entity_type() was deprecated by elgg_register_entity_type() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:135
+[24-May-2012 11:09:19] PHP WARNING: 2012-05-24 11:09:19 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[24-May-2012 11:17:04] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[24-May-2012 11:17:04] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[24-May-2012 11:17:04] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-ecommerce/start.php:21
+[24-May-2012 11:17:04] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/captcha/start.php:139
+[24-May-2012 11:17:04] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-contest/start.php:113
+[24-May-2012 11:17:04] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[24-May-2012 11:17:04] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[24-May-2012 11:17:04] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[24-May-2012 11:17:04] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[24-May-2012 11:17:04] PHP WARNING: 2012-05-24 11:17:04 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[24-May-2012 11:17:04] PHP WARNING: 2012-05-24 11:17:04 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 196)
+[24-May-2012 11:17:04] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:13
+[24-May-2012 11:17:04] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:25
+[24-May-2012 11:17:04] Deprecated in 1.8: trigger_plugin_hook() was deprecated by elgg_trigger_plugin_hook() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:29
+[24-May-2012 11:17:04] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[24-May-2012 11:17:04] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[24-May-2012 11:17:04] Deprecated in 1.8: get_context() was deprecated by elgg_get_context(). Called from [#5] /home/wizar621/public_html/vk/mod/izap-payment-gateways/start.php:47
+[24-May-2012 11:17:04] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:55
+[24-May-2012 11:17:04] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:56
+[24-May-2012 11:17:04] Deprecated in 1.8: register_entity_type() was deprecated by elgg_register_entity_type() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:135
+[24-May-2012 11:17:04] PHP WARNING: 2012-05-24 11:17:04 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[24-May-2012 13:00:36] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[24-May-2012 13:00:36] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[24-May-2012 13:00:36] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-ecommerce/start.php:21
+[24-May-2012 13:00:36] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/captcha/start.php:139
+[24-May-2012 13:00:36] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-contest/start.php:113
+[24-May-2012 13:00:36] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[24-May-2012 13:00:36] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[24-May-2012 13:00:36] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[24-May-2012 13:00:36] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[24-May-2012 13:00:36] PHP WARNING: 2012-05-24 13:00:36 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[24-May-2012 13:00:36] PHP WARNING: 2012-05-24 13:00:36 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 196)
+[24-May-2012 13:00:36] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:13
+[24-May-2012 13:00:36] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:25
+[24-May-2012 13:00:36] Deprecated in 1.8: trigger_plugin_hook() was deprecated by elgg_trigger_plugin_hook() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:29
+[24-May-2012 13:00:36] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[24-May-2012 13:00:36] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[24-May-2012 13:00:36] Deprecated in 1.8: get_context() was deprecated by elgg_get_context(). Called from [#5] /home/wizar621/public_html/vk/mod/izap-payment-gateways/start.php:47
+[24-May-2012 13:00:36] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:55
+[24-May-2012 13:00:36] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:56
+[24-May-2012 13:00:36] Deprecated in 1.8: register_entity_type() was deprecated by elgg_register_entity_type() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:135
+[24-May-2012 13:00:36] PHP WARNING: 2012-05-24 13:00:36 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[25-May-2012 10:29:30] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[25-May-2012 10:29:31] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[25-May-2012 10:29:31] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-ecommerce/start.php:21
+[25-May-2012 10:29:31] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/captcha/start.php:139
+[25-May-2012 10:29:31] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-contest/start.php:113
+[25-May-2012 10:29:31] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[25-May-2012 10:29:31] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[25-May-2012 10:29:31] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[25-May-2012 10:29:31] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[25-May-2012 10:29:31] PHP WARNING: 2012-05-25 10:29:31 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[25-May-2012 10:29:31] PHP WARNING: 2012-05-25 10:29:31 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 196)
+[25-May-2012 10:29:31] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:13
+[25-May-2012 10:29:31] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:25
+[25-May-2012 10:29:31] Deprecated in 1.8: trigger_plugin_hook() was deprecated by elgg_trigger_plugin_hook() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:29
+[25-May-2012 10:29:31] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[25-May-2012 10:29:31] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[25-May-2012 10:29:31] Deprecated in 1.8: get_context() was deprecated by elgg_get_context(). Called from [#5] /home/wizar621/public_html/vk/mod/izap-payment-gateways/start.php:47
+[25-May-2012 10:29:31] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:55
+[25-May-2012 10:29:31] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:56
+[25-May-2012 10:29:31] Deprecated in 1.8: register_entity_type() was deprecated by elgg_register_entity_type() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:135
+[25-May-2012 10:29:31] PHP WARNING: 2012-05-25 10:29:31 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[25-May-2012 10:48:08] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[25-May-2012 10:48:08] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[25-May-2012 10:48:08] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-ecommerce/start.php:21
+[25-May-2012 10:48:08] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/captcha/start.php:139
+[25-May-2012 10:48:08] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-contest/start.php:113
+[25-May-2012 10:48:08] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[25-May-2012 10:48:08] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[25-May-2012 10:48:08] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[25-May-2012 10:48:08] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[25-May-2012 10:48:08] PHP WARNING: 2012-05-25 10:48:08 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[25-May-2012 10:48:08] PHP WARNING: 2012-05-25 10:48:08 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 196)
+[25-May-2012 10:48:08] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:13
+[25-May-2012 10:48:08] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:25
+[25-May-2012 10:48:08] Deprecated in 1.8: trigger_plugin_hook() was deprecated by elgg_trigger_plugin_hook() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:29
+[25-May-2012 10:48:08] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[25-May-2012 10:48:08] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[25-May-2012 10:48:08] Deprecated in 1.8: get_context() was deprecated by elgg_get_context(). Called from [#5] /home/wizar621/public_html/vk/mod/izap-payment-gateways/start.php:47
+[25-May-2012 10:48:08] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:55
+[25-May-2012 10:48:08] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:56
+[25-May-2012 10:48:08] Deprecated in 1.8: register_entity_type() was deprecated by elgg_register_entity_type() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:135
+[25-May-2012 10:48:08] PHP WARNING: 2012-05-25 10:48:08 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[25-May-2012 12:54:13] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[25-May-2012 12:54:13] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[25-May-2012 12:54:13] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-ecommerce/start.php:21
+[25-May-2012 12:54:13] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/captcha/start.php:139
+[25-May-2012 12:54:13] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-contest/start.php:113
+[25-May-2012 12:54:13] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[25-May-2012 12:54:13] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[25-May-2012 12:54:13] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[25-May-2012 12:54:13] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[25-May-2012 12:54:13] PHP WARNING: 2012-05-25 12:54:13 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[25-May-2012 12:54:13] PHP WARNING: 2012-05-25 12:54:13 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 196)
+[25-May-2012 12:54:13] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:13
+[25-May-2012 12:54:13] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:25
+[25-May-2012 12:54:13] Deprecated in 1.8: trigger_plugin_hook() was deprecated by elgg_trigger_plugin_hook() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:29
+[25-May-2012 12:54:13] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[25-May-2012 12:54:13] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[25-May-2012 12:54:13] Deprecated in 1.8: get_context() was deprecated by elgg_get_context(). Called from [#5] /home/wizar621/public_html/vk/mod/izap-payment-gateways/start.php:47
+[25-May-2012 12:54:13] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:55
+[25-May-2012 12:54:13] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:56
+[25-May-2012 12:54:13] Deprecated in 1.8: register_entity_type() was deprecated by elgg_register_entity_type() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:135
+[25-May-2012 12:54:13] PHP WARNING: 2012-05-25 12:54:13 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[28-May-2012 12:53:31] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/pfchat/start.php:71
+[28-May-2012 12:53:31] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/elgg_social_login/start.php:2
+[28-May-2012 12:53:31] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-ecommerce/start.php:21
+[28-May-2012 12:53:31] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/captcha/start.php:139
+[28-May-2012 12:53:31] Deprecated in 1.8: register_elgg_event_handler() was deprecated by elgg_register_event_handler() Called from [#6] /home/wizar621/public_html/vk/mod/izap-contest/start.php:113
+[28-May-2012 12:53:31] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[28-May-2012 12:53:31] Deprecated in 1.8: isloggedin() is deprecated by elgg_is_logged_in() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:20
+[28-May-2012 12:53:31] Deprecated in 1.8: get_plugin_setting() is deprecated by elgg_get_plugin_setting() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:21
+[28-May-2012 12:53:31] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/pfchat/start.php:30
+[28-May-2012 12:53:31] PHP WARNING: 2012-05-28 12:53:31 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)
+[28-May-2012 12:53:31] PHP WARNING: 2012-05-28 12:53:31 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 196)
+[28-May-2012 12:53:31] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:13
+[28-May-2012 12:53:31] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:25
+[28-May-2012 12:53:31] Deprecated in 1.8: trigger_plugin_hook() was deprecated by elgg_trigger_plugin_hook() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:29
+[28-May-2012 12:53:31] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[28-May-2012 12:53:31] Deprecated in 1.8: register_plugin_hook() was deprecated by elgg_register_plugin_hook_handler() Called from [#5] /home/wizar621/public_html/vk/mod/captcha/start.php:34
+[28-May-2012 12:53:31] Deprecated in 1.8: get_context() was deprecated by elgg_get_context(). Called from [#5] /home/wizar621/public_html/vk/mod/izap-payment-gateways/start.php:47
+[28-May-2012 12:53:31] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:55
+[28-May-2012 12:53:31] Deprecated in 1.8: register_page_handler() was deprecated by elgg_register_page_handler() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:56
+[28-May-2012 12:53:31] Deprecated in 1.8: register_entity_type() was deprecated by elgg_register_entity_type() Called from [#5] /home/wizar621/public_html/vk/mod/izap-videos/start.php:135
+[28-May-2012 12:53:31] PHP WARNING: 2012-05-28 12:53:31 (CEST): "Invalid argument supplied for foreach()" in file /home/wizar621/public_html/vk/mod/izap-elgg-bridge/start.php (line 182)

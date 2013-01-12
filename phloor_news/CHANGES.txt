@@ -1,0 +1,27 @@
+/**
+ * Change Log
+ */
+ 
+/**
+ * @version 1.8-12.01.11
+ */
+- grid layout
+
+/**
+ * @version 1.8-11.12.15
+ */
+- uploading image (used as icon) [new feature]
+- now requires the phloorFramework
+
+/**
+ * @version 1.8-11.11.12
+ */
+- Initial release
+
+
+
+
+
+
+
+

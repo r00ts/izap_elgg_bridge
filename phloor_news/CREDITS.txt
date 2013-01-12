@@ -1,0 +1,5 @@
+/**
+ * Cedits
+ */
+All credit goes to the Elgg Core developers.
+ 

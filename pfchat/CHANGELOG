@@ -1,0 +1,31 @@
+1.7.0
+--------------
+- Upgrade to pfc 1.3
+- Fix autojoin issues in ie8 when not using the embedded mode
+- You can now choose the language via pfchat tool settings
+- Remove conflicts between prototype and jquery (fixes some IE-related issues)
+- Compatible with elgg 1.7.1
+- few spelling mistakes
+
+1.2.3
+--------------
+- Container handling was broken
+- File container is the default container
+
+1.2.2
+---------------
+- Extend admin page: choose container (MySQL or flat files)
+- pfchat can be opened embbeded in page or in a new popup window
+- Choosing pfchat theme in admin interface
+- Define default chatrooms in admin interface
+- For logged in user: remove from common menu and add to topbar
+- color pfchat icon in topbar if there was pfchat activity
+- Add access settings for the pfchat to the admin interface
+
+1.2.1
+---------------
+- User not logged in could access the pfchat
+
+1.2:
+---------------
+- Compatible with elgg 1.2

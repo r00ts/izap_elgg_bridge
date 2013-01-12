@@ -1,0 +1,19 @@
+/**
+ * Change Log
+ */
+/**
+ * @version 1.8-12.01.11b
+ */
+- added masonry library
+- added infinitescroll library
+
+/**
+ * @version 1.8-11.12.31b
+ */
+- temporarily removed interfaces of classes (-_-)
+- added some functions
+
+/**
+ * @version 1.8-11.12.15b
+ */
+- Initial release

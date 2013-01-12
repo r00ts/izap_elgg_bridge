@@ -1,0 +1,1 @@
+<script type="text/javascript" src="<?php echo $CONFIG->wwwroot . 'mod/highslide/vendors/highslide/highslide.js'; ?>"></script>

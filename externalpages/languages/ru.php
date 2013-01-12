@@ -1,0 +1,27 @@
+<?php
+/**
+ * External pages English language file
+ */
+
+$russian = array(
+
+	/**
+	 * Menu items and titles
+	 */
+	'expages' => "Внешние страницы",
+	'admin:appearance:expages' => "Site Pages",
+	'expages:about' => "О сайте",
+	'expages:terms' => "Правила",
+	'expages:privacy' => "Конфиденциальность",
+	'expages:contact' => "Контакты",
+
+	'expages:notset' => "Эта страница пока недоступна.",
+
+	/**
+	 * Status messages
+	 */
+	'expages:posted' => "Страница успешно сохранена.",
+	'expages:error' => "Ошибка при сохранении.",
+);
+
+add_translation("ru", $russian);
